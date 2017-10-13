@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    You are logged in!
+                    Aplikasi toko buku aja
                 </div>
             </div>
         </div>
